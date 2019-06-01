@@ -1,2 +1,8 @@
 # hello-world
-Just another (un)expected repository
+
+Hi fellow GitHub user!
+
+Here is the traditional Hello World project.
+
+TO DO:
+*make look good this file by using Markdown
